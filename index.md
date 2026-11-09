@@ -28,6 +28,7 @@ For more information, please see [Unity's Privacy Policy](https://unity.com/lega
 
 You can withdraw your consent through the game's settings. You can also request deletion of previously collected analytics data using the in-game privacy controls.
 
+
 For other privacy requests, including access to your personal data, contact us at [Email Address].
 
 ## Updates
