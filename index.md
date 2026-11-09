@@ -1,10 +1,10 @@
-# Privacy Policy — [Canvas Attack!]
+# Privacy Policy — Canvas Attack!
 
-**Last updated:** [09.11.26]
+**Last updated:** 09.11.26
 
-**Developer:** [Sinopia House]
+**Developer:** Sinopia House
 
-**Contact:** [ressentimentoff@gmail.com]
+**Contact:** ressentimentoff@gmail.com
 
 ## Analytics
 
